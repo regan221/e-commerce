@@ -21,9 +21,15 @@
                   <label class="form-check-label" for="exampleCheck1">Check me out</label>
                 </div>
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <span>
                     <h1>git-conflict-here</h1>
                 </span>
+=======
+                <div>
+                    git conflict
+                </div>
+>>>>>>> new-branch
 =======
                 <div>
                     git conflict
