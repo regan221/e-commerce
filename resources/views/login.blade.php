@@ -20,6 +20,9 @@
                   <input type="checkbox" class="form-check-input" id="exampleCheck1">
                   <label class="form-check-label" for="exampleCheck1">Check me out</label>
                 </div>
+                <span>
+                    <h1>git-conflict-here</h1>
+                </span>
                 <button type="submit" class="btn btn-primary">Submit</button>
               </form>
         </div>
