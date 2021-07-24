@@ -20,9 +20,15 @@
                   <input type="checkbox" class="form-check-input" id="exampleCheck1">
                   <label class="form-check-label" for="exampleCheck1">Check me out</label>
                 </div>
+<<<<<<< HEAD
                 <span>
                     <h1>git-conflict-here</h1>
                 </span>
+=======
+                <div>
+                    git conflict
+                </div>
+>>>>>>> new-branch
                 <button type="submit" class="btn btn-primary">Submit</button>
               </form>
         </div>
